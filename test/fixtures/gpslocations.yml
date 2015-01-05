@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  latitude: 9.99
+  longitude: 9.99
+  phoneNumber: MyString
+  userName: MyString
+  sessionID: MyString
+  speed: 1
+  direction: 1
+  distance: 9.99
+  gpsTime: 2015-01-02 15:49:17
+  locationMethod: MyString
+  accuracy: 1
+  extraInfo: MyString
+  eventType: MyString
+
+two:
+  latitude: 9.99
+  longitude: 9.99
+  phoneNumber: MyString
+  userName: MyString
+  sessionID: MyString
+  speed: 1
+  direction: 1
+  distance: 9.99
+  gpsTime: 2015-01-02 15:49:17
+  locationMethod: MyString
+  accuracy: 1
+  extraInfo: MyString
+  eventType: MyString
